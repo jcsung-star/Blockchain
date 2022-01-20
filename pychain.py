@@ -49,12 +49,13 @@ import hashlib
 # @TODO
 # Create a Record Data Class that consists of the `sender`, `receiver`, and
 # `amount` attributes
+
 @dataclass
 class Record:
+
     sender: str
     receiver: str
     amount: float
-
 
 ################################################################################
 # Step 2:
@@ -72,12 +73,13 @@ class Block:
 
     # @TODO
     # Rename the `data` attribute to `record`, and set the data type to `Record`
+    # data: Any
     record: Record
 
     creator_id: int
     prev_hash: str = "0"
     timestamp: str = datetime.datetime.utcnow().strftime("%H:%M:%S")
-    nonce: int = 0
+    nonce: str = 0
 
     def hash_block(self):
         sha = hashlib.sha256()
@@ -117,7 +119,7 @@ class PyChain:
 
             calculated_hash = block.hash_block()
 
-        print("Wining Hash", calculated_hash)
+        print("Winning Hash", calculated_hash)
         return block
 
     def add_block(self, candidate_block):
@@ -141,7 +143,6 @@ class PyChain:
 # Streamlit Code
 
 # Adds the cache decorator for Streamlit
-
 
 @st.cache(allow_output_mutation=True)
 def setup():
@@ -193,9 +194,10 @@ if st.button("Add Block"):
     # which is set equal to a `Record` that contains the `sender`, `receiver`,
     # and `amount` values
     new_block = Block(
-        data=input_data,
-        creator_id=42,
-        prev_hash=prev_block_hash
+        # data=input_data,
+        record = Record,
+        creator_id = 42,
+        prev_hash = prev_block_hash
     )
 
     pychain.add_block(new_block)
