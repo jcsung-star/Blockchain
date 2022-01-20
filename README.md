@@ -45,7 +45,7 @@ Install the following librarie(s) in your terminal...
 ## Visualization
 
 ## PyChain Ledger - Streamlit Application Demonstration:
-![pychain-·-Streamlit-Google-Chrome-2021-10-30-17-54-23](https://user-images.githubusercontent.com/85687829/139569013-6d2cb0ea-4512-40ee-b325-9055eb2fdfb1.gif)
+![pychain_app](images/pychain_application.GIF)
 
 ## Screenshot of "Block Difficulty" Slider and "Block Inspector" Drop-Down Menu:
 ![block_inspector](images/block_inspector.PNG)
