@@ -44,13 +44,13 @@ Install the following librarie(s) in your terminal...
 
 ## Visualization
 
-## PyChain Ledger - Streamlit Application Demonstration:
+## PyChain Ledger Demo:
 ![pychain_app](images/pychain_application.GIF)
 
-## Screenshot of "Block Difficulty" Slider and "Block Inspector" Drop-Down Menu:
+## Screenshot of block contents and hashes in the Streamlit drop-down menu detailing a blockchain that consists of multiple blocks:
 ![block_inspector](images/block_inspector.PNG)
 
-## Screenshot Showing the "Blockchain is Valid" Message Upon Using the "Validate Chain" Button:
+## Streamlit application page, indicating the validity of the blockchain:
 ![blockchain_is_valid](images/validate_blockchain.PNG)
 
 ---
