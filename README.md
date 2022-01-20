@@ -51,7 +51,7 @@ Install the following librarie(s) in your terminal...
 ![block_inspector](images/block_inspector.PNG)
 
 ## Screenshot Showing the "Blockchain is Valid" Message Upon Using the "Validate Chain" Button:
-![blockchain_is_valid](https://user-images.githubusercontent.com/85687829/139568929-d2e61505-252c-4664-95ad-522d08f25e1b.png)
+![blockchain_is_valid](images/validate_blockchain.PNG)
 
 ---
 
@@ -59,14 +59,13 @@ Install the following librarie(s) in your terminal...
 
 Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the pychain.py in your Jupyter Lab. Open a terminal and input streamlit run pychain.py or simply choose from the two options below.
 
-
 Please experience Blockchain for yourself. Choose between the following... 
 
-1) CLICK https://share.streamlit.io/stefimaz/side_projects/NFL_Dashboard.py 
+1) CLICK https://share.streamlit.io/jcsung-star/blockchain_ledger/main/pychain.py
 
 2) SCAN the QR Reader using the camera from your phone. 
 
-![QR_Reader](images/qr_reader.PNG)
+![QR_Code](images/qr_code.PNG)
 
 
 ---
