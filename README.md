@@ -20,7 +20,7 @@
 
 ## Overview
 
-Blockchain is an online application that allows our users to build a blockchain ledger system. While Python was used for the back-end code, Streamlit enhances the front-end user experience. This ledger allows the user to conduct financial transactions and verify its accuracy and the validity of the blockchain. 
+Blockchain is an online application that allows our users to build a blockchain ledger system. While Python was used for the back-end code, Streamlit enhances the front-end user experience. This ledger allows the user to conduct financial transactions and validate the blockchain. 
 
 ---
 
