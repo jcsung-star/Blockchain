@@ -45,8 +45,11 @@ Install the following librarie(s) in your terminal...
 ## Visualization
 
 ## PyChain Ledger Demo:
+https://github.com/jcsung-star/Blockchain_Ledger/blob/main/images/pychain_app.mov
+
+
 https://github.com/jcsung-star/Blockchain_Ledger/blob/main/images/pychain_application.GIF
-![pychain_app]<img src="https://github.com/jcsung-star/Blockchain_Ledger/blob/main/images/pychain_application.GIF" width="800" height="400">
+![pychain_app]<img src="https://github.com/jcsung-star/Blockchain_Ledger/blob/main/images/pychain_app.mov" width="800" height="400">
 
 ![pychain_app](images/pychain_application.GIF)
 
