@@ -20,7 +20,7 @@
 
 ## Overview
 
-Blockchain is an online application that allows our users to build a blockchain ledger system. Python was the back-end code as Streamlit was used in the front-end. This ledger allows the user to conduct financial transactions and verify its accuracy. Lastly PyChain ledger
+Blockchain is an online application that allows our users to build a blockchain ledger system. While Python was used for the back-end code, Streamlit enhances the front-end user experience. This ledger allows the user to conduct financial transactions and verify its accuracy and the validity of the blockchain. 
 
 ---
 
@@ -45,7 +45,7 @@ Install the following librarie(s) in your terminal...
 ## Visualization
 
 ## PyChain Ledger Demo:
-![pychain_app](https://github.com/jcsung-star/Blockchain_Ledger/blob/main/images/pychain_ledger_demo.mov)
+![pychain_app](images/pychain_ledger_demo.GIF)
 
 ## Screenshot of block contents and hashes in the Streamlit drop-down menu detailing a blockchain that consists of multiple blocks:
 ![block_inspector](images/block_inspector.PNG)
