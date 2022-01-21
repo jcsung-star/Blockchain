@@ -45,7 +45,7 @@ Install the following librarie(s) in your terminal...
 ## Visualization
 
 ## PyChain Ledger Demo:
-![pychain_app](images/pychain_application.GIF)
+![pychain_app](https://github.com/jcsung-star/Blockchain_Ledger/blob/main/images/pychain_ledger_demo.mov)
 
 ## Screenshot of block contents and hashes in the Streamlit drop-down menu detailing a blockchain that consists of multiple blocks:
 ![block_inspector](images/block_inspector.PNG)
